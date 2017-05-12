@@ -1,0 +1,9 @@
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\obj\Debug\Mega Escritorio Desktop Application.csprojResolveAssemblyReference.cache
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\obj\Debug\Mega_Escritorio_Desktop_Application.Form1.resources
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\obj\Debug\Mega_Escritorio_Desktop_Application.Properties.Resources.resources
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\obj\Debug\Mega Escritorio Desktop Application.csproj.GenerateResource.Cache
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\bin\Debug\Mega Escritorio Desktop Application.exe.config
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\bin\Debug\Mega Escritorio Desktop Application.exe
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\bin\Debug\Mega Escritorio Desktop Application.pdb
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\obj\Debug\Mega Escritorio Desktop Application.exe
+C:\Users\taylo\Documents\Visual Studio 2017\Projects\Mega Escritorio Desktop Application\Mega Escritorio Desktop Application\obj\Debug\Mega Escritorio Desktop Application.pdb
